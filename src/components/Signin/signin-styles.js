@@ -86,6 +86,8 @@ export const FormInput = styled.input`
   margin-bottom: 32px;
   border: none;
   border-radius: 4px;
+  // add a soft gray background to the input
+  background: #f2f2f2;
 `;
 
 
